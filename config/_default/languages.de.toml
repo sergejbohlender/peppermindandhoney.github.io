@@ -14,7 +14,6 @@ title = ""
   name = "Like peppermind and honey"
   image = "img/logo.png"
   links = [
-  { facebook = "https://www.instagram.com/like_peppermind_and_honey/" },
   { instagram = "https://www.instagram.com/like_peppermind_and_honey/" },
   { email = "mailto:info@peppermind-and-honey.de"}
 ]

@@ -21,12 +21,6 @@
 #  weight = 20
 
 [[main]]
-  identifier = "facebook"
-  pre = "facebook"
-  url = "https://www.instagram.com/like_peppermind_and_honey/"
-  weight = 100
-
-[[main]]
   identifier = "instagram"
   pre = "instagram"
   url = "https://www.instagram.com/like_peppermind_and_honey/"
