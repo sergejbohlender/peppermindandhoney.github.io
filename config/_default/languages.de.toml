@@ -10,7 +10,7 @@ title = ""
   rtl = false
   dateFormat = "2 January 2006"
 
-[author]
+[params.author]
   name = "Like peppermind and honey"
   image = "img/logo.png"
   links = [
