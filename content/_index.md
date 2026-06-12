@@ -11,7 +11,7 @@ showPagination: False
 
 |||||
 |---|---|---|---|
-|Fr.<code>&nbsp;</code>19.06.26|19 Uhr|[Kulturladen Vischers](https://www.nuernberg.de/internet/kuf_kultur/vischers_kulturladen.html)|Nürnberg|
+|Fr.<code>&nbsp;</code>19.06.26|19 Uhr|[Kulturladen Vischers](https://www.nuernberg.de/internet/kuf_kultur/vischers_kulturladen.html)|[{{< icon "location-dot">}}](https://maps.app.goo.gl/TxfqrenkfxJHqcVXA)Hufelandstraße 4, 90419 Nürnberg|
 |Sa.<code>&nbsp;</code>26.09.26|20-23<code>&nbsp;</code>Uhr|[Grüne Nacht](https://www.tourismus-ansbach.de/kunst-kultur/kulturveranstaltungen/gruene-nacht)|Ansbach|
 
 ## Über uns
